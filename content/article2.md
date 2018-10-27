@@ -1,9 +1,10 @@
-Title: The second article
-Date: 2012-12-01 10:02
-Description: the second article
+Title: 활동량제한
+Date: 2018-10-28 10:02
+Description: 글 게시, 댓글 작성, voting 등의 Wayz에서의 활동은 모두 블록체인 상에 기록됩니다.
+Category: 활동량제한
+Tags: Limit
 
-See below intra-site link examples in Markdown format.
-
-[a link relative to the current file]({filename}category/article1.rst)
-[a link relative to the content root]({filename}/category/article1.rst)
-
+글 게시, 댓글 작성, voting 등의 Wayz에서의 활동은 모두 블록체인 상에 기록됩니다.
+악의적인 사용자에 의해, 혹은 너무 많은 활동으로 인해 블록체인이 수용할 수 있는 활동의 한계치가 넘어간다면,
+서비스가 마비될 수 있습니다. 이를 방지하기 위해 Wayz에서는 개인이 활동할 수 있는 크기를 제한해 놓는데,
+그 기준이 VP 보유량입니다.
