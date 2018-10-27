@@ -1,5 +1,6 @@
 Title: The second article
 Date: 2012-12-01 10:02
+Description; the second article
 
 See below intra-site link examples in Markdown format.
 
