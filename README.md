@@ -6,3 +6,4 @@ dorahacks seoul 2018 (team ways)
 - Tak Jaehyun: mitick2969 (at) gmail.com
 - Yu Sungjae: dbtjdwocjswo (at) gmail.com
 - Lee junghun: twilight_le (at) naver.com
+- Son Jieun: plmn855000 (at) gmail.com
