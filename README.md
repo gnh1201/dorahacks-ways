@@ -9,7 +9,7 @@ Dorahacks seoul 2018 (team ways) - Destributed Company
 - Son Jieun: plmn855000 (at) gmail.com
 
 ##  System structure
-![system structure](https://raw.githubusercontent.com/gnh1201/dorahacks-ways/master/introduce.png)
+![system structure](https://raw.githubusercontent.com/gnh1201/dorahacks-ways/master/introduce2.png)
 
 ## forks
 - check on top
