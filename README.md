@@ -22,6 +22,7 @@ Dorahacks seoul 2018 (team ways) - Destributed Company
 ## Requirement
 - IPFS (InterPlanetary File System)
 - Pelican (based on Python, Static Web Generator)
+- Github clone, fork, pull request feature
 
 ## IPFS Ditributed Web
 - http://localhost:8080/ipfs/Qme3RzryKFWF1HGcXvhvuC91DmDvYed7hQFHEZ8yN77M2o/
